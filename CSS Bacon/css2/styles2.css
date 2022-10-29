@@ -1,0 +1,32 @@
+    h1 {
+        color: red;
+        font-size: 100px;
+    }
+    
+    img {
+        width: 30%;
+    }
+    
+    img:hover {
+        background-color: brown;
+    }
+    /*using classes and ids. */
+    /*** classes can be used multiple times in the same program. It specially specifies the individuals tags or html elements to perform individual styles in it.***/
+    /*ids can be used only once (specific-cally). If once id=heading it cann't be used again in the same program.*/
+    /*ids are more specific.*/
+    
+    .bacon {
+        background-color: greenyellow;
+    }
+    
+    .broccoli {
+        background-color: skyblue;
+    }
+    
+    .circular {
+        border-radius: 100%;
+    }
+    
+    #heading {
+        color: purple;
+    }
